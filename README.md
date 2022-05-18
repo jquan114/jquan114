@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**jquan114/jquan114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Here are some ideas to get you started:
+
+## Here are some cool things I've done:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
