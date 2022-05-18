@@ -2,7 +2,7 @@
 
 
 
-## Here are some cool things I've done:
+##                             Here are some cool things I've done:
 
 - 🔭 I’m currently working on being a Full Stack Developer.
 - 🌱 I’m currently learning Javascript , React , Express , Express, Python.
