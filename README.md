@@ -4,7 +4,7 @@
 
 ##                             Here are some cool things I've done:
 
-- 🔭 I’m currently a Full Stack MERN Developer.
+- 🔭 I’m currently a Full Stack Developer.
 - 🌱 I currently work with Javascript React, Python, HTML, CSS.
 - I’m looking to collaborate on projects with Full Stack / MERN Developers.
 - 📫 How to reach me: jquancollins96@gmail.com
