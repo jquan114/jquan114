@@ -3,7 +3,7 @@
 
 
 ##                             Here are some cool things I've done:
-
+- ✝️ Christian
 - 🔭 I’m a Software Engineer.
 - 🌱 I currently work with Next.Js 13, Typescript, SQL, and some Python. I love problem-solving and challenges.
 -  More enhancements I've been integrating into my study and projects are FRONT END AND BACKEND tech stacks.
